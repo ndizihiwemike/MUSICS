@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "../ELECT"
+		},
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "web"
+	}
+}
